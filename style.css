@@ -1,0 +1,73 @@
+body{
+  background-image:url(images/fond.jpg);
+  background-size: cover;
+  font-family:"Nunito", sans-serif;
+  color: #f9dbbd;
+  text-align: center;
+  
+}
+h1{
+  
+  color: #efbcd5;
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2 {
+  
+  color: #16425b;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: #ffa5ab;
+  
+}
+
+p {
+  
+  color: #f9dbbd;
+}
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+ol{
+  text-align: left;
+}
+
+#banner {
+  padding: 50px;
+  margin-bottom: 10px;
+  text-shadow: 1px 2px 3px lightgrey;
+  background-image:url(images/bulles.jpeg);
+  background-size: cover;
+
+}
+
+#banner h1{
+  font-size: 50px;
+}
+
+#banner p{
+  font-size: 20px;
+}
+
+.card {
+  text-align: center;
+  background-color: #b8d3d1;
+  border-radius: 10px;
+}
+
+.card p{
+  color:#6b717e;
+  font-size: 17px;
+}
+
+#footer a{
+  color: #f9dbbd;
+  font-size: 30px;
+}
+#footer a:hover{
+  color: white;
+}
