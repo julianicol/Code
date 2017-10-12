@@ -4,29 +4,28 @@ body{
   font-family:"Nunito", sans-serif;
   color: #f9dbbd;
   text-align: center;
-  
 }
+
 h1{
-  
   color: #efbcd5;
   font-weight: bolder;
   font-size: 30px;
 }
+
 h2 {
-  
   color: #16425b;
   font-weight: lighter;
   font-size: 25px;
 }
+
 a {
   color: #ffa5ab;
-  
 }
 
 p {
-  
   color: #f9dbbd;
 }
+
 a:hover {
   text-decoration: none;
   color: white;
@@ -39,10 +38,9 @@ ol{
 #banner {
   padding: 50px;
   margin-bottom: 10px;
-  text-shadow: 1px 2px 3px lightgrey;
-  background-image:url(images/bulles.jpeg);
+  /*text-shadow: 1px 2px 3px lightgrey;*/
+  background-image:url(images/bulles2.png);
   background-size: cover;
-
 }
 
 #banner h1{
@@ -53,15 +51,40 @@ ol{
   font-size: 20px;
 }
 
+#banner2 {
+  padding: 40px;
+  margin-bottom: 10px;
+
+}
+
+#banner2 p{
+  font-size: 20px;
+}
+
+
+
 .card {
   text-align: center;
-  background-color: #b8d3d1;
-  border-radius: 10px;
+  /*background-color: #b8d3d1;
+  border-radius: 10px;*/
 }
 
 .card p{
   color:#6b717e;
   font-size: 17px;
+}
+
+.card a:hover{
+  background-color: rgba(239, 188, 213, 0.15);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 5px;
+  padding-left: 5px;
+
+}
+
+#wufoo-z1bozkfa0qcdjo2 {
+  padding-top: 100px;
 }
 
 #footer a{
