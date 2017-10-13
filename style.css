@@ -88,6 +88,8 @@ ol{
 
 #wufoo-z1bozkfa0qcdjo2 {
   padding-top: 100px;
+  
+
 }
 
 #footer a{
@@ -96,4 +98,8 @@ ol{
 }
 #footer a:hover{
   color: white;
+}
+
+#footer {
+  padding-top: 5px;
 }
