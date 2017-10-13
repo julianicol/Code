@@ -1,7 +1,7 @@
 body{
   background-image:url(images/fond.jpg);
   background-size: cover;
-  font-family:"Nunito", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: #f9dbbd;
   text-align: center;
 }
@@ -13,7 +13,7 @@ h1{
 }
 
 h2 {
-  color: #16425b;
+  color: #897475;
   font-weight: lighter;
   font-size: 25px;
 }
@@ -47,8 +47,9 @@ ol{
   font-size: 50px;
 }
 
-#banner p{
+#banner h2{
   font-size: 20px;
+  color: #f9dbbd;
 }
 
 #banner2 {
@@ -69,10 +70,12 @@ ol{
   border-radius: 10px;*/
 }
 
-.card p{
-  color:#6b717e;
-  font-size: 17px;
+.card h2{
+  color: #f9dbbd;
+  font-size: 25px;
 }
+
+
 
 .card a:hover{
   background-color: rgba(239, 188, 213, 0.15);
